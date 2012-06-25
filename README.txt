@@ -3,6 +3,11 @@ Phoenix Cabinets and Tops Drupal 6 Theme
 Project lead: Paul Silvestri <paul@paulsilvestri.com>
               Silvestri Consulting, LLC <www.SilvestriConsultingLLC.com>
 
+This theme for the Phoenix Cabinets and Tops website was built using their
+old Flash website as the site template.  Since they liked their old Flash
+website, even though it was unusable and not "Search-Engine Friendly", many
+of the aspects of the old website are built into the new website.
+
 This theme was adapted from early versions of the Basic theme developed by
 Raincity Studios found at http://drupal.org/project/basic
 
